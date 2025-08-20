@@ -1,12 +1,10 @@
-
-
-# A Struggling Bakery in Need of Urgent Solutions
+# Information Systems Learning Outcomes for a Double-Major Preparing to Leave a Traditional Career Path
 
 ### **assistant**:
 
 Hi there! I'm UBot, your personal tutor. I'm a modern artificial intelligence. You can interact with me just as you would with a knowledgeable tutor. I can make mistakes, so please check important information. I'm here to guide and encourage you to discover answers on your own. Feel free to ask any clarifying questions if you're ever uncertain or just curious.
 
-**Welcome to your Introduction to Information Systems tutoring session for IS 3060 (Fall 2025).
+**Welcome to your Introduction to Information Systems tutoring session for IS 3060.
 Your instructor is Chong Oh.
 I'm familiar with your course materials and ready to guide your learning.**
 
@@ -14,173 +12,195 @@ I'm familiar with your course materials and ready to guide your learning.**
 
 ### **user**:
 
-Start Roleplay 1
+Can you help me develop my learning outcomes?
 
 ---
 
 ### **assistant**:
 
-## Welcome to Roleplay 1: The Struggling Bakery
+I'd be happy to help you develop personalized learning outcomes for your Information Systems course! 
 
-### Background & Scenario
-I'm playing the role of a curious business student who wants to understand how information systems can help solve real business problems. I'm studying a small bakery that's facing some serious operational challenges, and I need your help as my professor to understand how the concepts from Chapter 1 of our MIS course can be applied.
+To get started, I need to understand your background and interests better. Could you tell me:
 
-### Your Role as the Professor
-You'll be taking on the role of an MIS professor or industry expert. Your job is to guide me through understanding how information systems concepts apply to this bakery's challenges.
+1. **What's your major?** (e.g., marketing, finance, entrepreneurship, management, etc.)
 
-### My Role as the Student
-I'll be asking you thoughtful questions about how information systems can help this bakery business. I'm especially interested in learning about:
-- The five key elements of an information system
-- How skills like systems thinking and collaboration can solve problems
-- How technology trends might help small businesses
-- How information systems support broader business strategy
+2. **What are your career interests or goals?** What kind of work do you see yourself doing after graduation?
 
-### The Bakery's Challenges
-The bakery I'm studying has three main issues:
-1. **Tracking orders** - They're losing track of custom cake orders and deliveries
-2. **Managing inventory** - They often run out of popular items or waste ingredients
-3. **Analyzing sales** - They can't figure out which products are most profitable
+3. **What aspects of technology or business are you most curious about?** For example:
+   - How data drives business decisions
+   - Digital marketing and customer analytics
+   - Technology in finance or operations
+   - Starting your own business
+   - Managing teams and processes
 
-I'm ready to learn! Can you help me understand what's happening here and how information systems might be the solution? What should I be looking at first when I think about this bakery's problems?
+4. **Are there any specific industries that interest you?** (healthcare, retail, entertainment, consulting, etc.)
+
+5. **What do you hope to get out of this IS course beyond just passing it?** What would make this class feel valuable for your future?
+
+Once I understand your background and interests, I can help you craft two meaningful learning outcomes that connect the course material to your personal and career goals. These outcomes will serve as your "learning compass" throughout the semester and help you see how concepts like business intelligence, databases, and information systems strategy apply to your specific path.
+
+What's your major, and what draws you to it?
 
 ---
 
 ### **user**:
 
-So first off, what do you think is happening right now, and what might be going wrong? What are ways you think this can be fixed?
+My major is information systems (that is my plan) though I am open to exploring other fields. I minored in computer systems which is the major I just switched out of because I actually really dislike coding and sitting for long periods of time.
+My biggest dream is to be an author. I want to write and publish fantasy and sci-fi stories. I am currently working as a pharmacy technician and see myself doing that for a bit after college if I can't find anything else. 
+I have severe dry eyes which makes technology hard for me to be on because my eyes get really dry and hurt when I look at a screen too long. I really love technology actually, but since my condition got worse, it's hard to read too much on a computer. I used to be a sticky ipad kid so I love tech otherwise.
+What I hope to get from this class is an understanding of information systems and to see if it is the right fit for me.
+Web development interests me but I don't really know the other areas. I'd like to learn more.
 
 ---
 
 ### **assistant**:
 
-Well, from what I can see, this bakery seems to have a lot of disconnected processes that aren't talking to each other. 
+Thank you for sharing your background - it's really helpful to understand your unique situation! Your combination of loving technology but having physical constraints, plus your passion for creative writing, actually opens up some interesting possibilities in the IS field.
 
-Right now, I think what's happening is they're probably using a mix of paper records, maybe some basic spreadsheets, and a lot of manual tracking. The order-taking might be happening on paper or through phone calls that get written down, inventory is probably tracked by visual inspection or simple lists, and sales analysis might just be looking at the cash register totals at the end of the day.
+Let me ask a few more questions to help craft learning outcomes that truly fit you:
 
-What I think might be going wrong is that information isn't flowing between these different activities. Like, when someone places a custom cake order, that information might not automatically tell the inventory system what ingredients are needed, or when ingredients run low, nobody gets notified in time to reorder.
+**About your writing and creative interests:**
+- Have you thought about how technology could support your writing career? (e.g., digital publishing platforms, author websites, social media marketing for books, reader analytics)
+- Are you interested in the business side of publishing - like how companies like Amazon, Wattpad, or traditional publishers use information systems?
 
-As for fixes, I'm thinking they need some kind of integrated system? Maybe something that can track orders and automatically update inventory levels? And perhaps software that can analyze sales patterns?
+**About your health considerations:**
+- Since screen time is challenging, are you more interested in IS roles that involve strategy, consulting, or working with people rather than hands-on technical work?
+- Would you be interested in learning about accessibility in technology design - helping make systems better for people with various needs?
 
-But I'm not sure - is this where the five components of an information system come in? I remember you mentioning people, procedures, hardware, software, and data in class. How do those apply here? And what about systems thinking - how should I be approaching this problem from that perspective?
+**About exploring IS career paths:**
+- Beyond web development, would you like to explore roles like:
+  - Business analyst (translating between technical and business teams)
+  - Project management 
+  - User experience research
+  - Digital strategy consulting
+  - Systems training and support
+
+**About your current work:**
+- Do you see any connections between your pharmacy tech experience and information systems? (Healthcare IS is a huge field!)
+
+Your situation is actually quite common - many successful IS professionals focus more on strategy, analysis, and communication rather than coding. Let's figure out what aspects would energize you most!
 
 ---
 
 ### **user**:
 
-That's a great connection! People come into play because having the right people with the right knowledge is crucial here. If the employees can understand how to use the technology to track all these parts, a lot will run more smoothly.  For procedures, there needs to be a specific method things like inventory are managed.  The fact that inventory is tracked by visual inspection can be faulty; are they being checked regularly? Or at random intervals? That's important to know. We also need the right hardware and software in order to help us do all of this. Most importantly, the bridge between it all is the data. We already have a lot of information and data needed to understand the situation. Now we just have to apply it, and offer the correct technology and people who understand how to use the technology in order for things to run more successfully.
-
-With this in mind, how else can information systems help in this scenario? What specific steps might we need to take?
+I have only slightly thought about it! I write my book on a computer so I have to use it a bit more just to do that. The business side of publishing actually sounds fascinating! I'd love to learn more! I've used Wattpad and other services before so that definitely intrigues me. 
+It's complicated because my dry eyes make it difficult for me to talk to people and I have gotten very anxious to do so. It feels like I can't hold a conversation sometimes. I think I'll stick with hands-on work since I also like working by myself. Accessibility would be very interesting. I'm open to it. I was talking about information systems in pharmacy with my manager so that is something I'd be interested in. Healthcare too would be cool.
 
 ---
 
 ### **assistant**:
 
-That makes so much sense! I can see how all five components need to work together, not just individually.
+This is really helpful! I can see some fascinating connections forming between your interests and IS. The publishing business angle, healthcare systems, and accessibility are all growing areas in IS that could align well with your situation.
 
-So if I'm thinking about specific steps using systems thinking, maybe we need to:
+Let me ask a couple more targeted questions to nail down your learning outcomes:
 
-1. **For the people component** - train the bakery staff not just on how to use new technology, but on understanding *why* consistent data entry matters for the whole system to work?
+**For the publishing/creative side:**
+- Would you be interested in understanding how platforms like Wattpad, Amazon Kindle, or Audible use data to recommend books to readers? Or how authors use analytics to understand their audience?
+- Are you curious about the systems behind digital publishing - like how manuscripts become ebooks, or how online bookstores manage millions of titles?
 
-2. **For procedures** - establish regular, scheduled inventory checks instead of random visual inspections, and create standard processes for how orders get entered and tracked?
+**For the healthcare/accessibility angle:**
+- In your pharmacy work, have you noticed any technology pain points - like systems that are hard to use or don't work well together? 
+- Would you like to learn how IS could make healthcare more accessible for people with various challenges (like your dry eyes)?
 
-But I'm curious about the **data** part you mentioned - what specific data does this bakery probably already have that they're not using well? Like, are we talking about past sales records, customer information, supplier delivery schedules?
+**For your work style preferences:**
+- Since you prefer working independently, would you be interested in roles like system analysis, data analysis, or user research where you can work more behind-the-scenes?
+- Does the idea of being a "bridge" between creative/healthcare professionals and technology teams appeal to you?
 
-And when you say "apply it" - does that mean we need to look at how the data flows between different activities? Like, how should the order data connect to the inventory data to prevent shortages?
+I'm starting to see two really strong learning outcome directions emerging:
+1. Something around **creative industries and digital publishing systems**
+2. Something around **healthcare IS and accessibility-focused design**
 
-Also, I'm wondering about the **software and hardware** choices - should a small bakery be looking at simple point-of-sale systems, or something more comprehensive? What would be realistic for their size and budget?
-
-What about **collaboration** - is that one of those nonroutine cognitive skills we discussed? How does working together as a team help solve these information problems?
+Does that feel right to you? Should we focus on both, or does one area excite you more?
 
 ---
 
 ### **user**:
 
-Great questions! The employees should definitely understand the why behind everything they're doing, otherwise they're working just to work. For procedures, establishing those regular checks would be perfect!
-As for the data part, I suppose I meant that the data we have about what's happening (often running out of popular items) is going to help us realize what we need to address. For collecting data in the future, this is going to help us understand if our methods are actually working. 
-A small bakery should likely be looking at simpler types of software and hardware. They definitely don't need a huge robot to help keep inventory of things like how a robot might help keep inventory in a pharmacy. Rather, a simple interface on a computer might be super helpful. Everytime something is used in inventory, maybe it can be scanned, for example, and the computer will register that there is one less of it in stock (ingredients, products, anything at all) and then some kind of notice whenever we have less than 5 of that in stock, or a set amount. Realistically, we wouldn't have too advance of hardware. We just need a good-working computer, so to speak.
-Collaboration is such a great skill. Working together as a team definitely brings together the whole thing. If employees don't work together to make those five aspects mean something, then the whole system will fall apart.
+How books become ebooks and things like that honestly sounds really interesting! I've noticed a lot of the time in the pharmacy that there are some things that aren't exactly user friendly or dry eye friendly like having a blue light filter and things like that. Research sounds pretty cool too! As long as I don't have to present or anything. A bridge sounds really interesting as well. Those two outcomes are really cool to me! In creative or healthcare industries would be great
 
 ---
 
 ### **assistant**:
 
-Yes, that scanning system sounds perfect for a bakery! I can picture how much better that would work than someone trying to remember to write down every time they use flour or eggs.
+Perfect! I can see you're excited about both areas - and they're actually really complementary. The skills you'd learn about user-friendly design, accessibility, and systems analysis would apply to both creative and healthcare industries.
 
-So if I'm understanding this correctly, **collaboration** means everyone on the team needs to consistently use the system the same way - like if one person scans ingredients when they use them but another person forgets to scan, then the whole inventory count becomes unreliable?
+Based on our conversation, here are two personalized learning outcomes I'd suggest for you:
 
-I'm starting to see how this connects to **systems thinking** too. It's not just about fixing one problem in isolation - like just getting better inventory tracking - but understanding how everything affects everything else. If inventory is more accurate, then ordering gets better, which means less waste, which probably means better profits?
+**Learning Outcome 1: Digital Creative Industries & Publishing Systems**
+*By the end of this course, I will be able to analyze and evaluate information systems used in digital publishing and creative industries, including how platforms like Wattpad, Kindle, and Audible use data analytics to connect authors with readers, manage digital content workflows, and support the complete publishing process from manuscript to market.*
 
-But I'm curious about something - how does this relate to the bakery's **business strategy**? You mentioned in class that information systems should support broader business goals. Is the goal here just to be more efficient, or could better information systems actually help them grow their business or compete better?
+**Learning Outcome 2: Healthcare Information Systems & Accessibility Design**
+*By the end of this course, I will be able to assess healthcare information systems for usability and accessibility challenges, and recommend IS solutions that improve user experience for both healthcare workers and patients with diverse needs, drawing from my pharmacy experience to bridge clinical workflows with technology design.*
 
-Like, if they can track which items sell best and when, could they use that information to plan seasonal offerings or target their marketing better? Is that where the **abstract reasoning** skill comes in - being able to see patterns in the data and make strategic decisions?
+These outcomes would let you:
+- Connect your writing passion to the business/tech side
+- Use your pharmacy experience as valuable insight
+- Focus on behind-the-scenes analysis rather than presentation-heavy roles
+- Explore accessibility - something personally meaningful to you
+- Learn about industries you could actually see yourself working in
 
-What should they be thinking about in terms of their overall business objectives when choosing these systems?
+Do these feel right to you? Should we adjust the wording or focus on anything specific? Remember, these will be your "learning compass" for relating assignments back to your goals throughout the semester!
 
 ---
 
 ### **user**:
 
-You're right on the money with that collaboration bit. You're also tying this in great with systems thinking! Once everything becomes more accurate, every process will flow more smoothly and hassle-free! 
-Relating all this to business strategy, I would say that the goal here (and of any company) is to earn the most amount of profit possible while maintaining company/customer morale. The happier the employees, the happier the customers! And when provided a better place to work with less hassle and better efficiency, there is nothing that company can't do. In the end, this will help grow business and compete with others. Your idea of tracking which items sell best is a great example of how statistics are used in business. Seasonal offerings and other strategies are great to attract more customers, and abstract reasoning is a skill needed in order to handle a successful business. That, along with the ability to experiment, because we need to go in and test a method before being able to say it will be successful. 
+I think these ideas are a little too specific and out of the scope of this class. Let's focus them in on something accomplishable by the end of this semester?
 
 ---
 
 ### **assistant**:
 
-This is really clicking for me now! So when we talk about **experimentation**, we're saying the bakery shouldn't just implement a whole new system all at once, but maybe test it on one part of their business first? Like, maybe start with tracking just their most popular items or busiest time periods to see if the system actually works before rolling it out completely?
+You're absolutely right! Let me refocus these to be more achievable within the scope of this introductory IS course.
 
-And I love how you connected employee happiness to customer happiness - that makes so much sense! If the staff isn't constantly stressed about running out of ingredients or losing track of orders, they can focus more on quality and customer service.
+Looking at your syllabus, you'll be covering foundational topics like databases, business intelligence, collaboration systems, and IS strategy. Let's create outcomes that build on those basics:
 
-But I'm wondering about the bigger picture now - you mentioned that information systems support business careers and align with business objectives. How does understanding all of this help me personally? I mean, whether I end up working in a bakery, a tech company, or anywhere else, what are the key takeaways about how MIS thinking applies?
+**Learning Outcome 1: IS Foundations for Creative Industries**
+*By the end of this course, I will be able to identify and explain how core information system components (databases, business intelligence, and digital platforms) support content creation and distribution businesses, and evaluate how these systems could enhance creative workflows and audience engagement.*
 
-Is it that every business, no matter how small or large, has these same basic challenges - managing information flow, coordinating people and processes, and using data to make better decisions? And that the five components and four skills we've been talking about are kind of universal tools for approaching these problems?
+**Learning Outcome 2: User-Centered IS Analysis in Healthcare Settings**  
+*By the end of this course, I will be able to analyze information systems for usability and accessibility considerations, particularly in healthcare environments, and apply IS security and design principles to recommend improvements that support both efficiency and user well-being.*
 
-What would you say is the most important thing for me to remember about how MIS supports business success, beyond just this bakery example?
+These are much more grounded in what you'll actually learn this semester:
+- Uses concepts from Chapters 1-12 (databases, BI, collaboration, security)
+- Builds on your existing knowledge (pharmacy work, creative interests)  
+- Focuses on analysis and evaluation skills you'll develop
+- Sets you up to explore these fields further in future courses
+
+Do these feel more realistic and achievable for an introductory IS course? We can tweak the language if needed!
 
 ---
 
 ### **user**:
 
-Yes! When experimenting with things like technology, we shouldn't invest everything we have into it unless we know for sure that it will be a good investment. In this case, trying out a system to track their most popular items and the ingredients needed to make them would be a step in the right direction. 
-It doesn't matter where you end up in your career; basically, understanding how MIS thinking applies to any other career because the world is booming with technology, and if understanding how to use it is not a skill you have, then it will be really hard to get a good career nowadays. Knowing how to utilize technology to whatever you do will be an important skill. I honestly wouldn't even say that these five components apply to everything, but for a business setting especially, these concepts will be really helpful. even if you work in a library as a librarian, for example, you are still part of a company who needs to keep track of books. Those books will more easily be kept track of with technology rather than on paper, right?
-
-I'd say the most important thing for you to remember is that MIS supports any kind of business success. Especially beyond this bakery example!
+These are perfect!
 
 ---
 
 ### **assistant**:
 
-## Summary of Our Conversation
+Excellent! I'm so glad these feel right to you. These learning outcomes give you a great personal lens for approaching the course material throughout the semester.
 
-Thank you for this really enlightening discussion! Let me summarize what we covered together:
+For your assignment, you'll want to include:
 
-### Key MIS Concepts We Explored:
+**Your Two Learning Outcomes:**
+1. **IS Foundations for Creative Industries** - By the end of this course, I will be able to identify and explain how core information system components (databases, business intelligence, and digital platforms) support content creation and distribution businesses, and evaluate how these systems could enhance creative workflows and audience engagement.
 
-**The Five Components of Information Systems:**
-- **People**: Employees need to understand both how to use technology and why it matters for the whole system
-- **Procedures**: Establishing regular, consistent processes (like scheduled inventory checks vs. random visual inspections)
-- **Hardware**: Simple, appropriate technology for the business size (basic computers and scanners for a bakery)
-- **Software**: User-friendly interfaces that can track inventory, send alerts, and analyze data
-- **Data**: Using existing information about problems (like frequent stockouts) to guide solutions, and collecting new data to measure success
+2. **User-Centered IS Analysis in Healthcare Settings** - By the end of this course, I will be able to analyze information systems for usability and accessibility considerations, particularly in healthcare environments, and apply IS security and design principles to recommend improvements that support both efficiency and user well-being.
 
-**The Four Nonroutine Cognitive Skills:**
-- **Systems Thinking**: Understanding how improving one area (inventory accuracy) affects everything else (ordering, waste reduction, profits)
-- **Collaboration**: Everyone must consistently use systems the same way for them to work effectively
-- **Abstract Reasoning**: Analyzing patterns in sales data to make strategic decisions about seasonal offerings and marketing
-- **Experimentation**: Testing solutions on a small scale before full implementation
+**For your reflection paper, you can mention:**
+- How we started broad and refined them to be course-appropriate
+- Why the creative industries angle connects to your writing passion
+- How your pharmacy experience gives you unique insight into healthcare IS
+- Why accessibility matters to you personally and professionally
+- How these outcomes help you explore whether IS is the right major for you
 
-### How MIS Supports Business Strategy:
-We discussed how information systems don't just solve operational problems, but support broader business goals like maximizing profit while maintaining employee and customer satisfaction. Better systems lead to happier employees, which leads to happier customers and business growth.
+These outcomes will be really valuable when you get to future assignments - you'll be able to connect things like database design to how publishers manage manuscripts, or IS security to protecting patient data in pharmacies.
 
-### Career Relevance:
-You emphasized that MIS thinking applies universally across careers because technology is integral to modern business operations. Whether in bakeries, libraries, or tech companies, the ability to effectively utilize information systems is crucial for career success.
-
-### Main Takeaway:
-MIS supports business success across all industries by providing frameworks (the five components and four skills) for approaching information and technology challenges systematically.
-
-This conversation really helped me see how these foundational concepts apply to real-world business problems and why they're essential skills for any career path!
+Good luck with your assignment, and feel free to come back if you want to discuss how any of the course topics relate to your personalized learning goals!
 
 ---
 
 
-<img width="462" height="630" alt="image" src="https://github.com/user-attachments/assets/d0a42b59-00f8-4d15-b647-7f2ee20bd817" />
+<img width="462" height="642" alt="image" src="https://github.com/user-attachments/assets/23bf70a1-63ec-4bae-bea2-e0c698b73846" />
