@@ -1,4 +1,4 @@
-# Optimizing Business Performance through Data-Driven Insights
+# Modernizing a Custom Anime Figurine Business
 
 ### **assistant**:
 
@@ -12,196 +12,175 @@ I'm familiar with your course materials and ready to guide your learning.**
 
 ### **user**:
 
-Start Roleplay 3
+Start Roleplay 4
 
 ---
 
 ### **assistant**:
 
-Hi Professor! I'm Kenji, the owner of Tour Tokyo Smarter. We run small, customized tours for international visitors here in Tokyo.
+Hi, I'm Aiko‚Äîthe owner of Anime3D NYC! We create and sell custom 3D-printed anime figurines, both online and at conventions.
 
-Lately, our bookings have been unpredictable and our marketing efforts feel like a shot in the dark. I know we've collected lots of data‚Äîlike customer bookings, reviews, and feedback‚Äîbut I don't know how to use it.
+Business is growing, but I'm running into tech issues. My design computers are slow, our mobile payment system crashes at events, and I feel like we're missing out on better ways to manage orders and customers.
 
-I'm hoping you can help me understand how Business Intelligence systems might turn that data into better decisions. Can you walk me through it?
+I've hired you to help me modernize our hardware, software, and mobile systems so we can be faster, more reliable, and ready for our next big expo. Where should we start?
 
 ---
 
 ### **user**:
 
-Hi! No problem at all, what kinds of data have you collected so far?
+Hi Aiko! Could you tell me more specifically about all the tech issues that are going on? That way I'll be better able to assist!
 
 ---
 
 ### **assistant**:
 
-Well, we've been collecting quite a bit actually! We have customer booking records with dates, tour types, group sizes, and prices. We also track where our customers come from‚Äîwhich countries, how they heard about us.
+Oh wow, where do I even begin! 
 
-Plus we get reviews and ratings after each tour, and we keep notes on weather conditions and seasonal patterns. Oh, and we track our marketing spend on different platforms like Google ads and social media.
+My design team is constantly complaining that our computers take forever to render the 3D models - sometimes 20-30 minutes for a single figurine design. We're using these old Windows machines I bought like 3 years ago, and they just can't keep up anymore.
 
-The problem is, it's all just sitting in different spreadsheets and folders. I can see individual pieces, but I have no idea what it all means together or how to use it to make better business decisions. 
+At conventions, our tablet-based point-of-sale system is a nightmare. The card reader disconnects, the app crashes when we're processing multiple orders, and last weekend at Comic-Con we actually lost sales because customers got frustrated waiting. Plus, I can never sync our inventory between what we sell online and what we bring to events.
 
-What exactly is Business Intelligence, and how would it help me make sense of all this information?
+And honestly, I'm not even sure if we're using the right software for everything. We're designing in some basic CAD program, tracking orders in spreadsheets, and I feel like there has to be better ways to do all this. 
+
+What do you think is the biggest problem to tackle first?
 
 ---
 
 ### **user**:
 
-Business Intelligence is basically a strategy to convert raw data into understandable data for anyone to use in order to make business decisions. It would really help to make sense of all this information because all the info is simply sitting in different spreadsheets and folders and isn't organized whatsoever. This can be really discouraging to look at. By using software and systems to organize this data, we can visualize the data to be easy to understand. Examples are by using Tableau. Tableau is a software that can extract information from spreadsheets and allow the user to easily organize data into charts and maps, and basically just any kind of visual aid to better help anyone understand what the information is portraying.
+Firstly, I think you need to tackle your hardware problem. An old Windows machine that you bought 3 years ago most likely needs an upgrade. There are important things that good hardware provides that you might not be able to get from an old system. Take a good CPU, for example. It is the brain of the computer and typically helps to process information. If yours is old, that could be why a design is being processed so slow. Perhaps storage is low as well. Most modern hardware provides much more storage capacity to meet your needs. 
+After that, I would address software. A CAD program and spreadsheet is a good start, but a system that's more specialized towards your needs and multi-tasking orders would be preferable. What are some of your ideas with this? 
 
 ---
 
 ### **assistant**:
 
-That makes sense! So Business Intelligence would help me organize all this scattered information into something I can actually understand and use.
+You're absolutely right about the CPU! I never really thought about it being the "brain" - that makes total sense why our renders are so slow. And yeah, we're constantly running out of storage space for all our design files.
 
-I like the idea of using visuals - charts and maps sound much better than staring at endless spreadsheet rows. But I'm curious about the actual process. You mentioned extracting information from spreadsheets - how does that work exactly? 
+For the software side, I've been wondering if there are better CAD programs specifically for 3D printing? Right now we're just using some free software we found online, but maybe there's something more professional that could speed up our design-to-print workflow?
 
-And once I have these charts and visualizations, what kinds of business decisions could I make that I can't make now? I mean, what would I actually be looking for in all this organized data to help with my tour business?
+And you mentioned systems that could handle multi-tasking orders - that sounds amazing! Right now, when we're at a convention, I literally have no idea what our online inventory levels are. Is there software that could sync everything in real-time? Like, if we sell a Naruto figurine at a convention, it automatically updates our online store?
+
+Also, I'm curious - when you talk about upgrading hardware, should I be looking at Mac or staying with Windows? And what about RAM? I keep hearing that's important too, but I'm not sure how much we actually need for 3D design work.
+
+What would you recommend as the most important specs to focus on when we upgrade?
 
 ---
 
 ### **user**:
 
-When we extract data from a spreadsheet, I'm assuming you're asking about exactly what we're extracting and how? Let's say for example we have a spreadsheet that has the data about where the customers are from. We can take the countries they are from and put it in a column and then select how many people come from that country in a row so that we can visualize that exactly. Or we can place that data on a map and see the actual countries and how many people come from each of them just popping out of the map.
-Once you have these visualizations, types of business decisions that you can make that either you couldn't make before or would've been more difficult to make include: what customers you want to target advertising to less, for example. Maybe you don't really understand the data you have, but then it shows you that you have not as many customers coming in from Europe. So you know not to spend money in advertising to them. Or maybe you have tours not selling well on certain dates; that's able to be visualized way better on a graph because it will show you that no tours are being sold on those dates, so you don't do tours on those days. Or do fewer tours. Does that make sense?
+A software that's more professional and paid for will probably yield the results that you want. Have you tried searching up CAD programs and researched into them a bit? I would look for a program that suits your needs. Check if there are any other free ones before jumping into paying for a program that needs to be paid for, but most likely you'll have to spend a bit to get the results you're looking for. Have you tried TinkerCad of Fusion 360? Take a look at what stands out and read the reviews!
+
+There should definitely be software that can sync everything in real-time! I would also search up what programs work best for you and test out which ones you like using more! An operating system that is compatible with the app/program is going to be important as well.
+
+When you upgrade hardware, it's completely up to you to choose what you like. I personally love Mac because it's user-friendly and uses apps to keep things organized. I also use Windows at my workplace which is more unfamiliar to me but it seems to be able to handle some powerful native applications like MS Office which do cost. Web Applications cost less, and those are perfectly compatible with my Mac. 
+
+RAM is the main memory of the computer. Again, look into the specs of your hardware before buying to ensure it has everything you need. You should understand how much memory you need to run your company based on your experience so far and comparing it to the technology you already have. A Windows computer tends to give you an easier time with upgrades and uses a bit more storage for it, and Mac uses less space for strong performance, but don't always have as much flexibility with their hardware.
+
+I'd say for you, look into a fast CPU, lots of memory, and good RAM that will last you a while.
 
 ---
 
 ### **assistant**:
 
-Yes, that makes perfect sense! So instead of just having numbers scattered everywhere, I could see patterns I never noticed before.
+Oh wow, this is really helpful! I've heard of Fusion 360 - I think some other creators in our community use it. I should definitely try it out before we invest in anything expensive. And TinkerCad sounds familiar too.
 
-The map visualization sounds really helpful - I could actually see which countries are sending me the most customers and focus my marketing budget there. And the timeline charts would show me exactly when people aren't booking tours.
+You bring up a really good point about operating systems. I've always used Windows because that's what I'm comfortable with, but if Mac handles design work better and the apps are more organized, maybe it's worth considering? Though you mentioned Windows has more flexibility with hardware upgrades - that could be important as we grow.
 
-But I'm wondering about the process you mentioned earlier - you said BI involves data acquisition, analysis, and publishing results. It sounds like we've talked about the analysis part with Tableau. What about the other steps? 
+I'm a bit confused about one thing though - you mentioned web applications versus native applications. Right now we use a mix of both. Like, we use Google Sheets online for tracking orders, but our CAD software runs directly on our computers. For our business, would it be better to move everything to web-based apps? Especially for the inventory syncing you mentioned?
 
-How would I actually get all my scattered data into one place for analysis? And once I create these visualizations, how do I share them with my small team so we can all make better decisions together?
+And when you say "lots of memory" - are you talking about storage space for our files, or RAM for running programs? I want to make sure I understand the difference before I start shopping for new computers.
+
+Also, for the real-time syncing between our online store and convention sales - would that work better as a web application that we can access from our tablets?
 
 ---
 
 ### **user**:
 
-Yes, so BI involves data acquisition, analysis, and publishing results. Of course gathering the data comes from somewhere. You already had that part handled with the spreadsheets and folders of data. We need this in order to analyze because we cannot analyze data that isn't collected yet. Publishing results includes visualizing the results at the end. This is the final step after having collected the data, using it then to analyze what needs to be looked at, and then applying that data to real-world business decisions and making those ideas happen. 
+So the difference between RAM and storage is that RAM is volatile, meaning that the data will be lost when your device is powered off, while storage is non-volatile, meaning it won't be lost when your device is powered off. So any device with standard RAM should be just fine as long as you have more storage space to access files! Get yourself enough RAM to run programs, but know that both matter in their own separate ways. 
 
-You can put all your data into a single dashboard for analysis, as one example. Using the right technology, you should be able to place all of the right information into a single spot to visualize to make the process easier. Once you create these visualizations, you can share them with the team by making your own observations and then sending them to your team because these visualizations aren't just for one person to understand. They should be able to be easily understood by everyone on the team.
+A real-time syncing between online store and convention sales might work better as a web application you access from your tablet! If your budget is lower it would be more cost-efficient as well since web-applications are more budget-friendly. If you choose to get a more app-oriented operating systems like Mac, it could be easier to organize everything as well.
 
 ---
 
 ### **assistant**:
 
-Ah, I see! So I've already been doing the first step - data acquisition - without even realizing it. That's encouraging!
+Ah, that makes so much sense! So RAM is like the computer's workspace - it needs enough to handle the 3D rendering while it's happening, but storage is where we actually save all our design files permanently. Got it!
 
-The dashboard idea sounds really useful. Instead of jumping between different spreadsheets and folders, everything would be in one place where my team and I can see it all together.
+And I'm getting excited about the web application idea for inventory! If it's more budget-friendly and I can access it from tablets at conventions, that sounds perfect for us. Plus, if we go with Mac for the design computers, having everything organized with apps could really help my team stay on top of things.
 
-But I'm still a bit confused about something. You mentioned that BI helps with analysis, but what's the difference between just looking at my data in charts versus actually doing "BI analysis"? Is there more to it than just making pretty visualizations?
+One more question though - at conventions, we're often dealing with spotty WiFi or sometimes no internet at all. If we're using web applications for our point-of-sale and inventory syncing, what happens when the connection goes down? Is there a way to make sure we don't lose sales or have the system crash like it does now?
 
-And when you say I can share observations with my team - are we talking about just showing them the charts, or is there a way for them to explore the data themselves and maybe discover things I missed?
+And for mobile systems specifically - should we be looking at tablets that run iOS or Android for our convention setup? Does it matter for the web applications we'd be using?
+
+I feel like we're getting somewhere with this plan! Should we tackle the hardware upgrades first, then move to the software, or do them at the same time?
 
 ---
 
 ### **user**:
 
-Looking at pretty charts is one thing, but BI analysis is a deeper process of using people and technology together to make this raw data into insights that make you want to take action. With it, you are able to create and predict future outcomes. It goes beyond the simple "what" and dives into the "how" and "why" to explain how things happened in the past. So visualization is about understanding and communication; BI analysis is about transforming data into a strategic asset for business success. 
-When you share observations with your team, they can see the data too, but they can also explore the data and analyze parts that maybe you missed as well, you're very right about that! Everyone may be able to pull their own observations from a set of data, which is the great part about visualizing it.
+Make sure before your events that there is some kind of program installed in your app that will allow the progress/inventory to be saved and then updated again when the WiFi comes back on. For example, Google Docs offers an offline mode, and you are able to edit while there is no WiFi. Something like that would be helpful in your case.
+
+For mobile systems, you should be looking into either iOS or Android just depending on what you want! For iOS: It is generally considered more secure due to Apple's tightly controlled ecosystem and consistent updates. Their hardware is excellent build quality and uniform leading to simplified device management and support. A standardized interface provides a highly intuitive and user-friendly experience that requires minimal training. A higher initial price point is common, but iPads tend to have a longer usable life and higher resale value. For Android: Security updates can be inconsistent, depending on the device manufacturer. It offers far greater hardware diversity, including more budget-friendly and ruggedized options suitable for demanding environments. There is better integration with the wider ecosystem of devices and services, especially with Windows computers, but less seamless with Macs. Also a wider range of prices is available, often making them a more budget-friendly option. So it's completely up to you. What are you thinking with tackling first? I think it would be smart to do hardware upgrades first and then testing out the software! At the same time would be reasonable as well.
 
 ---
 
 ### **assistant**:
 
-That's really helpful! So BI analysis isn't just about seeing what happened, but understanding why it happened and what might happen next. That could really help me predict busy seasons or understand why certain tours are more popular.
+You're right about the offline mode - that Google Docs example is perfect! We definitely need something that can keep working even when the convention WiFi is terrible.
 
-I'm getting excited about the possibilities, but I have to ask - what about the quality of my data? I'll be honest, sometimes we forget to record things, or we might have incomplete customer information. Some of our spreadsheets probably have errors too.
+For the mobile systems, I'm leaning toward iOS tablets. Even though Android might be cheaper, the security and longer life you mentioned sounds important for our business. Plus, if we go with Mac computers for design work, having everything in the Apple ecosystem might make syncing easier, right?
 
-Will that be a problem for BI analysis? Can these systems work with messy or incomplete data, or do I need to clean everything up first? I'm worried that all this scattered, imperfect information might not be good enough for the kind of insights you're describing.
+I think you're spot-on about doing hardware first, then software. That way we can get the new computers set up and make sure they're powerful enough before we start testing all the new CAD and inventory programs on them.
+
+So here's what I'm thinking for our upgrade plan: First, get new design computers with fast CPUs, good RAM, and lots of storage. Maybe go with Mac for the ecosystem benefits. Then get iPads for convention sales with offline-capable point-of-sale apps. After that, test out Fusion 360 and find a web-based inventory system that can sync between online and mobile.
+
+Does this sound like a solid plan to you? And one last thing - do you think we should upgrade everything at once, or maybe start with just the design computers and see how it goes?
 
 ---
 
 ### **user**:
 
-Quality of data is certainly important to an extent. It's true that we can forget to record things, or spreadsheets have errors, and this can be a pretty major deal for BI. Cleaning up data is an important part of the process. You can definitely end up making bad business decisions based on bad/messy data. Instead of panicking about that though, what you can do is keep entering in valuable data and keeping track of everything from now on. Or simply prioritize that data that is most important for your business.
+This sounds like a fantastic plan to me! I think you should start with the design computers, see how that goes, and then move on to upgrading everything else! You want to test that everything is the way you want it before going all-in.
 
 ---
 
 ### **assistant**:
 
-That makes sense - I shouldn't let perfect be the enemy of good! I can start cleaning up the most important data while being more careful with new entries going forward.
+Perfect! I'm feeling so much more confident about this whole tech upgrade now. Starting with the design computers makes total sense - if we can fix the slow rendering issue first, my team will be so much happier, and then we can tackle the convention sales problems.
 
-Actually, this brings up another question. You mentioned earlier that BI can help with things like reporting and data mining. I think I understand reporting - like creating those regular charts and dashboards we talked about. But what exactly is data mining, and how would that be different from the regular analysis we discussed?
+You've really helped me understand the difference between all these hardware components and why we need better specs. And the whole mobile systems strategy with offline capabilities - that's going to be a game-changer for our convention sales!
 
-Would data mining help me discover things about my tour business that I wouldn't even think to look for? I'm curious if there are hidden patterns in my customer data that could really surprise me!
+I'm excited to get started with researching those new Mac computers and testing out Fusion 360. Then we can work our way up to the iPad point-of-sale system and web-based inventory management.
 
----
+Thank you so much for breaking everything down in terms I could actually understand. I feel like we have a real roadmap now to get Anime3D NYC running smoothly and ready for our next big expo!
 
-### **user**:
+**Summary of Our Conversation:**
 
-As a refresher, data mining is a process used to uncover patterns and trends in super big data sets. It focuses in a lot on using technology and software and statistics to make sense of information. Reporting communicates this data through charts, dashboards, and useful summaries. It relies more on good presentations and visualizations to get the job done. Data mining is different from regular analysis because it dives deep into the numbers and actual data instead of just observing from the surface. We can see patterns, but what do they mean? That's the idea behind data mining. It would definitely help you discover things about your tour business you wouldn't think to look for! By diving deeper into your data, you might surprise yourself and find hidden information and patterns that would be difficult to spot on the surface!
+We discussed modernizing Anime3D NYC's technology infrastructure, focusing on three main areas:
 
----
+**Hardware Issues Identified:**
+- Slow design computers (3-year-old Windows machines) causing long render times
+- Insufficient CPU, RAM, and storage for 3D design work
+- Tablet-based POS system crashes and connectivity issues at conventions
 
-### **assistant**:
+**Hardware Solutions Recommended:**
+- Upgrade to new computers with fast CPUs, adequate RAM, and large storage capacity
+- Consider Mac systems for design work due to ecosystem benefits and app organization
+- Choose between iOS (more secure, longer life, ecosystem integration) vs Android tablets (more budget-friendly, diverse options) for mobile POS
 
-Wow, that's fascinating! So data mining could help me find connections I never would have thought to look for. Like maybe certain types of customers always book specific combinations of tours, or there's a pattern between weather and customer satisfaction that I never noticed.
+**Software and Mobile Systems Strategy:**
+- Transition from basic free CAD software to professional options like Fusion 360 or TinkerCad
+- Implement web-based inventory management for real-time syncing between online store and convention sales
+- Ensure offline capability for convention sales to handle poor WiFi situations
+- Move from spreadsheet-based order tracking to integrated business management systems
 
-I'm starting to see how powerful this could be for my business. But I have one more practical question - you've mentioned using technology and software for all of this. I'm not very technical, and my team is pretty small. 
+**Implementation Plan:**
+Start with design computer upgrades first, then move to mobile POS and inventory systems once the primary hardware is tested and working effectively.
 
-Are there BI tools out there that are simple enough for a small tour company like mine to use? Or do I need to hire technical experts to set all this up? I want to make sure this is realistic for a business our size before I get too excited about the possibilities!
-
----
-
-### **user**:
-
-BI tools are definitely simple enough for a small tour company like yours! Even an individual like me can use visualization tools like Tableau, for example. You do not need to hire technical experts to set anything up. As long as you can familiarize yourself with your systems and how to extract information from your data and how to use that software, you should be good to go. This is very realistic for a small business. These processes are all very simple for anyone to follow. Now that you know what BI can do for you, all you have to do is train yourself with how to use the tools which should be no more difficult than searching up your questions on online videos!
-
----
-
-### **assistant**:
-
-That's really reassuring to hear! I was worried this would be too complicated or expensive for a small business like ours, but it sounds like we can actually handle this ourselves.
-
-So let me see if I understand the big picture now. I'd start by cleaning up my existing data and organizing it better. Then I could use tools like Tableau to create dashboards and visualizations that help me and my team see patterns - like which countries send us the most customers or what times of year are busiest. And with data mining, I might discover hidden connections that could help me make even smarter decisions about tours, pricing, or marketing.
-
-This could really help us stop guessing about our business and start making decisions based on what the data actually tells us. I'm excited to get started! Do you think there are any specific areas where BI would have the biggest immediate impact for a tour company like mine?
-
----
-
-### **user**:
-
-That is 100% correct! I think areas where BI would have the biggest impact on your company specifically is by figuring out how to handle reviews and put their views/opinions into place. You can sort out all the positive reviews from the negative reviews and understand what the majority of people are saying. You can also learn where to place most of your marketing allowance by using the information from Google ads and so on. BI will just overall be very useful for your tour company.
-
----
-
-### **assistant**:
-
-Perfect! Those are exactly the kinds of practical improvements I was hoping for. Being able to systematically analyze reviews instead of just reading through them randomly would be huge - I could finally understand what customers really want and what we need to fix.
-
-And optimizing our marketing spend based on actual data rather than guesswork could save us a lot of money while bringing in more customers.
-
-Thank you so much for walking me through all of this! I feel like I finally understand how Business Intelligence could transform our business. Instead of flying blind with scattered spreadsheets, we could have real insights driving our decisions about everything from tour schedules to marketing campaigns.
-
-## Summary of Our Conversation
-
-Here's a summary of what we discussed about Business Intelligence for your tour company:
-
-**What is BI**: A process that converts raw data into understandable insights for business decision-making through data acquisition, analysis, and publishing results.
-
-**Key BI Activities**:
-- **Reporting**: Creating charts, dashboards, and visualizations using tools like Tableau
-- **Data Mining**: Deep analysis to uncover hidden patterns and connections in your data
-
-**For Your Tour Business**:
-- Organize scattered spreadsheet data into centralized dashboards
-- Visualize customer origins, booking patterns, and seasonal trends
-- Use insights to optimize marketing spend and tour scheduling
-- Systematically analyze customer reviews to improve services
-- Predict future trends rather than just understanding past performance
-
-**Implementation**: BI tools are accessible for small businesses - you can learn to use visualization software through online resources without hiring technical experts.
-
-**Data Quality**: While clean data is important, you can start with your existing information and improve data collection practices moving forward.
-
-The main benefit: Transform from guesswork-based decisions to data-driven strategic choices that help your tour company grow more effectively.
+This phased approach addresses the immediate productivity issues while building toward a comprehensive, integrated technology solution for both online and convention-based sales operations.
 
 ---
 
 
-<img width="462" height="630" alt="image" src="https://github.com/user-attachments/assets/59c0b8ef-5f26-4659-bd70-6efd4bbe0bda" />
+<img width="462" height="642" alt="image" src="https://github.com/user-attachments/assets/02ece56d-b6c0-447a-b5cb-93b2d8a29afd" />
