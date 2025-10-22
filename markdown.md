@@ -1,4 +1,4 @@
-# Investigating a Failure in Project Collaboration
+# Integrating Business Processes Across a Disconnected Organization
 
 ### **assistant**:
 
@@ -12,230 +12,184 @@ I'm familiar with your course materials and ready to guide your learning.**
 
 ### **user**:
 
-Start Roleplay 7
+Start Roleplay 8
 
 ---
 
 ### **assistant**:
 
-# Collaboration Breakdown with the Australia Team
+## Background: Local Boutique Struggling with Operational Efficiency
 
-**Scenario Background:**
-You are a project supervisor at a U.S.-based company. Your junior team member (the human user) is part of a project team that missed a critical deadline involving a collaborative deliverable with an Australian partner team.
+Hi! I'm Morgan, the Director of Operations at a mid-sized company. We've been growing steadily, but I'm dealing with some serious operational headaches that are starting to impact our performance.
 
-As Tara, I'm trying to understand what caused the communication or coordination failure, whether Information Systems (CIS) were properly used, and what changes should be made to prevent this in the future.
+Here's what I'm facing: Our finance team uses Excel spreadsheets and QuickBooks for all their work. Sales operates completely independently with their own HubSpot system, and they rarely share data with anyone else. HR tracks employee onboarding and management through email chains and shared folders. Our operations team runs projects using Trello boards that nobody else can access. Meanwhile, marketing has set up their own Google Workspace environment.
+
+The problem is that nothing talks to each other. When I need to run reports that span multiple departments, I get different versions of the same data from everyone. Our approval processes are constantly delayed because information gets stuck in silos. We're duplicating data entry across systems, and I'm seeing inconsistencies everywhere.
+
+**My Role:** I'm the frustrated Director of Operations who needs your help as a Business Analyst to understand how we can integrate our business processes and fix these disconnected systems.
+
+**Your Role:** You are the Business Analyst I've hired to help diagnose our process issues and recommend solutions using concepts from Chapter 8: Processes, Organizations, and Information Systems.
 
 ---
 
-**Your Role:** You are the junior team member involved in the
-**My Role:** Tara - Project Supervisor
+Thanks for meeting with me. I've had it with the way we're operating—finance has one system, HR another, marketing is on their own tools, and none of it connects.
 
----
+We're duplicating data, approvals get lost, and we can't even run a single accurate report across departments. I need your help figuring out how to fix this mess.
 
-Hi We need to talk about thed deliv the Australia team. They were counting on us to deliver documentation last Friday, but we dropped the ball.
-
-I to understand what happened. Were tools we're using not effective? Were updatesd?
-
-Walk me through it—and let's figure out how we can improve our collaboration going forward.
+What do you think we should do?
 
 ---
 
 ### **user**:
 
-Let's try to understand the situation the best we can. What exactly happened, and why do you think it went wrong?
+Let's start with the basics. So we need to take business processes into mind and take into account how they bleed into other departments when working together. We also need to look at how to prevent having information getting stuck in silos. In this case, there is definitely going to be a benefit in using cross-departmental integration. Where exactly are the breakdowns happening so we can be more specific with solving the problem?
 
 ---
 
 ### **assistant**:
 
-I appreciate you wanting to understand the full picture, but I need *you* to walk me through what happened from your team's perspective. You were directly involved in this project.
+You're absolutely right about cross-departmental integration being key here. Let me give you some specific examples of where things are breaking down:
 
-From what I know, the Australian team was expecting finalized documentation by Friday their time, which would have been Thursday evening for us due to the time difference. They didn't get it.
+**Approval bottlenecks:** When sales closes a deal, they update HubSpot, but finance doesn't see it until someone manually sends an email. Then finance has to re-enter everything into QuickBooks for invoicing. If there are contract changes, operations doesn't know until much later.
 
-I need to hear from you: What was your team supposed to deliver? What tools were you using to coordinate with Australia? And where exactly did things break down?
+**Customer onboarding disasters:** HR starts the employee onboarding process through email, but they can't see if IT has set up accounts, if facilities has prepared workspace, or if the manager has completed their checklist in Trello. Everything happens in isolation.
 
-Help me understand—were you using shared documents, management software, regular check-ins? need specifics about our collaboration systems so we can figure out what went wrong and fix it.
+**Reporting nightmares:** Last month I asked for a customer acquisition cost report. Marketing gave me one number based on their Google Analytics, sales gave me different figures from HubSpot, and finance had completely different costs from QuickBooks. Nobody was wrong—they just had different pieces of the puzzle.
+
+**Inventory and project coordination:** Operations tracks project timelines in Trello, but they can't see if finance has approved the budget or if HR has assigned the right people. Projects get delayed because nobody knows what's waiting on what.
+
+The most frustrating part? When I ask different departments the same question, I get different answers because everyone's working from their own version of reality.
+
+What would you call this kind of problem in business process terms?
 
 ---
 
 ### **user**:
 
-The time difference issue. Ah yes. It is very likely that there was a lack of update in the system somewhere that could have been prevented by checking its version more often. Perhaps we will need to schedule checks for those types of matters. My team was definitely supposed to deliver everything on time, but it appears that our software was not utilized the way it was supposed to be. I sincerely apologize for the inconvenience this has caused. We were using shared documents, but perhaps not the right kinds. It's easy to use tools like Google Docs for collaboration, but an idea could be using a shared calendar so that it will update us in whatever timezone we are currently in to better alert us that something needs to get done urgently. It can be difficult to work on projects asynchronously, but we will work to get better at this to continue working with the Australia team in a way that doesn't cause delays or difficulties.
+This would be an organizational silo issue. When departments operate independently with little information sharing, creating barriers to collaboration and efficiency. So because different systems are being used, this is causing a lot of confusion and the systems need to be integrated somehow. Or a data silo could be another idea. This is basically when data about the same a customer or project is stored in multiple, unconnected systems. Because there is lack of enterprise integration, there is a lack of an integrated information system that connects departments and ensures real-time synchronization. 
 
 ---
 
 ### **assistant**:
 
-I appreciate the apology, but I need you to be more specific about what actually broke down. You mentioned "lack of update in the system" and that your software "wasn't utilized the way it was supposed to be" - but that's still too vague.
+Exactly! You've nailed the core issues here. We're dealing with classic information silos that are creating these barriers between departments.
 
-Let me ask directly: 
+What's particularly frustrating is that we're essentially running multiple "workgroup processes" instead of true "enterprise processes." Each department optimizes for their own workflow, but the company as a whole suffers.
 
-Were you using version control properly in your shared documents? Did someone overwrite changes or work on an outdated version?
+Here's what I'm seeing as the biggest pain points from these data silos:
 
-What about task management - were you using something like Asana, Trello, or Teams to track who was responsible for what and when?
+**Version control chaos:** Finance thinks we have 50 active clients, sales says 47, and operations is planning resources for 52. Who's right?
 
-And here's what concerns me most: you mentioned the time difference, but did anyone on your team actually convert the deadline to our local time? Friday in Australia could mean Thursday evening here - did your team realize that?
+**Process handoffs failing:** When sales closes a deal, there's no automated trigger to start the onboarding process in HR or alert operations about resource needs. Everything relies on manual communication.
 
-I need to understand if this was a tool problem, a process problem, or a communication problem. Give me a concrete example of where things went sideways.
+**Duplicate data entry:** Our sales team enters customer info in HubSpot, then someone in finance has to re-enter the same information in QuickBooks, and if there are any project requirements, operations enters it again in Trello.
+
+You mentioned enterprise integration and real-time synchronization. In practical terms, what would that look like for a company like ours? Are we talking about replacing all these systems, or is there a way to connect what we already have?
+
+And honestly, I'm worried about the cost and disruption. How do companies typically approach breaking down these silos without grinding operations to a halt?
 
 ---
 
 ### **user**:
 
-You're right! My earlier explanation was too general. Here’s what actually happened:
-
-Our U.S. team wasn’t using version control properly for the shared deliverable. We were editing directly in a shared cloud folder instead of maintaining updates through our project’s Git repository. As a result, one teammate worked from an outdated version of the data file. When we uploaded it on our end, it overwrote the latest changes that the Australian team had made during their day. That caused them to lose several hours of work and had a ripple effect on their timeline.
-
-On the task management side, we were using Microsoft Teams and Planner, but not consistently. Tasks were assigned in the system, but we hadn’t been great about updating completion status. That made it look like the deliverable was on track when, in reality, one of the final review steps hadn’t been done.
-
-Regarding the time zone issue, we failed to convert the deadline correctly. The due date was listed as “Friday, 10 a.m.”, which our team assumed meant Friday morning U.S. time. In reality, that was Friday 10 a.m. Sydney time, which was Thursday 8 p.m. for us. We didn’t realize that until it was too late, so while we thought we had another morning to finalize, the Australian team was already expecting delivery.
+You don’t have to scrap HubSpot, QuickBooks, or Trello. In fact, many organizations achieve full integration by connecting their existing systems through middleware or automation platforms. The goal is to make your tools talk to each other and create a single source of truth. Instead of replacing your systems, you build connections between them.
+EAI (Enterprise Application Integration) or iPaaS (Integration Platform as a Service) tools like Zapier, Workato, or Microsoft Power Automate act as bridges that move and sync data in real time. Those are just a few examples. When Sales closes a deal in HubSpot, a trigger automatically:
+Creates a customer record in QuickBooks 
+Sends data to Trello or Asana
+Notifies HR or Operations via Slack or email to start onboarding
+If Finance updates payment status in QuickBooks, that data automatically updates the customer status in HubSpot.
+Operations dashboards pull project progress and resource data directly from Trello, HubSpot, and QuickBooks into a central analytics hub.
 
 ---
 
 ### **assistant**:
 
-Now we're getting somewhere. Thank you for the specifics - this helps me understand exactly where our collaboration systems failed.
+That makes so much more sense! You're talking about creating enterprise processes that span departments without the massive disruption I was worried about.
 
-So we had three critical breakdowns:
+So instead of forcing everyone to learn completely new systems, we'd be automating those handoffs that are currently breaking down. That automated trigger concept is exactly what we need—no more relying on someone to remember to send an email or manually update three different systems.
 
-1. **Version control failure** - working directly in shared folders instead of using Git properly, which led to overwriting the Australian team's work
-2. **Task management inconsistency** - Teams/Planner wasn't being updated, giving false status indicators
-3. **Time zone miscommunication** - no clear process for handling international deadlines
+I'm particularly interested in those operations dashboards you mentioned. Right now, when leadership asks me for a project status update, I have to go to four different people to get pieces of information. If I could pull real-time data from all our systems into one view, that would be game-changing.
 
-Here's what concerns me most: these aren't just technical problems - they're process problems. We *have* the right tools, but the team wasn't following proper collaboration procedures.
+But I have a couple of concerns about implementation:
 
-Moving forward, I need you to propose specific changes. How do we ensure version control is enforced? How do we make task status updates mandatory rather than optional? And how do we handle time zone coordination better?
+**Change management:** How do we get departments to trust that their data is being shared correctly? Finance is pretty protective of their QuickBooks data, and sales might worry about operations seeing their pipeline details.
 
-What's your recommendation for preventing this from happening again? I want concrete process improvements, not just "we'll be more careful."
+**Data quality:** Right now, each department enters information their own way. Sales might abbreviate company names, while finance writes them out fully. Won't that create problems when systems try to sync?
+
+**Process standardization:** If we're connecting systems, don't we need to standardize how different departments handle the same processes? Like, what if sales and operations have different definitions of when a "project starts"?
+
+How do companies typically handle these process alignment issues when they're implementing enterprise integration?
 
 ---
 
 ### **user**:
 
-Yes you're definitely right. We had the infrastructure, but we didn’t have consistent enforcement or accountability. Here are the specific process changes I recommend to prevent a repeat of this situation:
-A Version Control Enforcement. By enforcing a no direct-edits rule. All updates must go through Git branches and pull requests.
-Assign a repository lead: One person per deliverable will review and merge all commits.
-Implement automated audit checks: Use GitHub permissions to block direct uploads or commits to the main branch.
-Weekly review: A 10-minute Git activity summary in our team meeting ensures everyone is committing and syncing correctly.
-A Task Management Accountability. There should be a daily check-in policy. Everyone updates their assigned tasks at the end of their workday.
-Auto-reminders: We can use Teams notifications to ping members with overdue updates.
-Visible progress tracking: Summaries shared in the project channel each Friday to ensure both time zones see the current status.
-Task ownership clarity: Every deliverable has one clearly named owner responsible for its progress and status updates.
-Lastly, timezone coordination. We will make a shared calendar with automatic time zone conversion. All deadlines entered in Outlook/Teams calendar with both local and Sydney times visible.
+The technology is the easy part; the real work lies in change management, data governance, and process alignment. Most organizations handle this by first forming a cross-departmental integration team that includes stakeholders from finance, sales, operations, and IT. This group defines shared data standards (how customer names, project IDs, or deal stages are formatted) and establishes a “single source of truth” for each data type. For example, HubSpot might own customer contact data, while QuickBooks owns financial data. From there, integration rules are built so that each system syncs only the relevant, approved fields, ensuring trust and security without exposing sensitive financial or pipeline details unnecessarily.
 
-How does all of this sound?
+To address process alignment, companies usually document and map enterprise workflows before connecting systems. They agree on consistent definitions, like when a project officially “starts” or when a customer becomes “active”, and update their automation triggers to match those definitions. This approach not only prevents confusion but also builds confidence that every department is looking at accurate, standardized data. Over time, as real-time dashboards and automations start proving their reliability, teams naturally shift from protecting data silos to collaborating around shared visibility and performance insights.
 
 ---
 
 ### **assistant**:
 
-This is exactly what I needed to hear. Your recommendations show you understand this was a systems and process failure, not just a one-time mistake.
+Perfect! You've outlined exactly what we need—a structured approach that tackles the people and process issues first, then lets the technology follow.
 
-I particularly like:
-- The "no direct edits" rule with mandatory pull requests
-- Having a repository lead for each deliverable
-- Daily task updates with auto-reminders
-- The shared calendar with dual time zone displays
+I love the idea of forming a cross-departmental integration team. That would actually solve another problem we have: departments making decisions in isolation. If finance, sales, operations, and IT are all at the table defining these standards together, we'd finally have alignment on things like customer lifecycle stages and project definitions.
 
-But I want to test one more aspect: **accountability and monitoring**. How will we know these new processes are actually being followed? 
+The "single source of truth" concept makes total sense too. So HubSpot owns customer contact data, QuickBooks owns financial data—but everyone can access what they need without duplicating entry or creating conflicts.
 
-For example, if someone bypasses the Git workflow or stops updating their tasks, how do we catch that before it impacts another deadline?
+Here's what I'm thinking for our next steps:
 
-And what about our relationship with the Australian team specifically - they lost work because of our mistake. Do we need to establish any new communication protocols with them, like regular sync points or shared status dashboards?
+**Phase 1:** Form that integration team and map our current enterprise workflows. Document where handoffs happen and where they're breaking down.
 
-Give me your thoughts on the monitoring piece, and then I think we'll have a solid plan to prevent this from happening again.
+**Phase 2:** Define our shared data standards and process definitions. Get everyone to agree on what "project started" or "customer active" actually means.
+
+**Phase 3:** Start with one or two high-impact integrations—maybe sales-to-finance deal handoffs—and prove the concept works.
+
+**Phase 4:** Expand to full enterprise integration with those real-time dashboards.
+
+This feels manageable and addresses my concerns about disruption. We'd be improving our business processes systematically rather than trying to change everything at once.
+
+Does this phased approach align with what you typically recommend? And realistically, how long should we expect this kind of enterprise process transformation to take?
 
 ---
 
 ### **user**:
 
-There will be a short 15-minute review to check whether the new processes were followed and what to improve everyday. We will also make a documented SOP. We’ll draft a short “Collaboration Checklist” covering Git use, Planner updates, and time-zone confirmations that all project members must follow.
+Your phased approach is exactly what strong enterprise transformation looks like. You’ve built a roadmap that balances strategy, people, and technology. That's essentially the key to success in breaking down silos. Starting with an integration team ensures buy-in and shared accountability early on. Then, moving into process and data standardization before touching the tech side prevents the all-too-common mistake of automating chaos. 
+
+As for timeline, most organizations complete a transformation like this in 6 to 12 months, depending on company size and complexity. The first two phases (team formation and workflow mapping) usually take 4–6 weeks, since they’re about analysis and agreement. The initial pilot integrations might take another 2–3 months, including testing and user adoption. Expanding to enterprise-wide automation and real-time dashboards can take another 4–6 months, especially if you’re connecting multiple systems and cleaning historical data along the way. The great news is that you’ll start seeing value early. By around the end of Phase 3, you’ll already have measurable time savings, fewer manual handoffs, and unified visibility across departments.
 
 ---
 
 ### **assistant**:
 
-Good thinking on the daily reviews and the collaboration checklist - those will definitely help with consistency.
+That timeline is actually more reasonable than I expected! Six to twelve months to go from our current mess to enterprise-wide integration sounds achievable, especially with the early wins you're describing.
 
-Now, regarding the Australian team specifically - they lost hours of work because of our version control mistake. What are you proposing we do to rebuild that relationship and prevent future coordination issues with them?
+The fact that we'll see measurable improvements by the end of Phase 3 is crucial for keeping leadership and the team motivated. I can already imagine how much time we'll save just from automating that sales-to-finance handoff—no more duplicate data entry, no more delays waiting for manual updates.
 
-And one more operational question: who's going to be responsible for enforcing these new processes? The daily 15-minute reviews and SOP compliance checks need an owner, or they'll just become another thing that falls through the cracks.
+You've really helped me understand how to approach this systematically. Instead of being overwhelmed by all our disconnected systems, I now see a clear path forward:
 
-Help me understand how this gets implemented and sustained - not just designed.
+**Build the team first** to get departmental buy-in and shared ownership
+**Document and standardize our enterprise processes** before touching any technology
+**Prove the concept works** with high-impact pilot integrations
+**Scale systematically** to full enterprise integration with real-time visibility
 
----
+This transformation would eliminate our information silos, create those enterprise processes that span departments, and give us the integrated reporting and dashboards we desperately need.
 
-### **user**:
+I feel confident presenting this approach to leadership. We're not just throwing technology at the problem—we're fixing the underlying business processes and organizational alignment issues that created these silos in the first place.
 
-To address the relationship first, I plan to set up a joint meeting with the Australian team lead this week to take accountability for the version control mistake and communicate the specific steps we’re putting in place to prevent it from happening again. We’ll introduce a shared version-tracking dashboard visible to both teams, showing commit histories, deadlines, and change logs in real time to maintain transparency. In addition, we’ll implement a dual-calendar system that clearly lists all deadlines in both time zones so there’s no confusion about submission dates. To strengthen collaboration and show respect for their schedule, we’ll also begin short weekly sync meetings that alternate between time zones, allowing both sides to share the responsibility of timing inconvenience.
+Thank you for helping me see how enterprise integration can solve our operational chaos without the massive disruption I was worried about!
 
-Internally, we’ll assign a rotating Process Lead each sprint who will be responsible for running the daily 15-minute reviews, ensuring that Teams and Planner updates are completed each day, and verifying that all version control procedures are being followed correctly. This rotation will ensure accountability without overburdening any single team member. At the end of each week, the Process Lead will complete a short compliance checklist confirming that updates, commits, and communications were handled properly, and any missed tasks will be addressed in our Monday stand-up. Finally, we’ll schedule quarterly collaboration audits with the Australian team to review how the systems are working and gather feedback on our performance.
+## Summary
 
----
+In our conversation, I guided Morgan through diagnosing their organizational challenges and developing a comprehensive solution strategy. We identified that their company was suffering from classic information silos, where departments operated independently with disconnected systems (HubSpot, QuickBooks, Trello, Google Workspace), creating inefficiencies, data inconsistencies, and process breakdowns.
 
-### **assistant**:
+Together, we explored how Enterprise Application Integration (EAI) and automation platforms could connect their existing systems rather than replacing them entirely, creating enterprise processes that span multiple departments. We addressed critical implementation concerns including change management, data governance, and process standardization through the formation of cross-departmental teams and shared data standards.
 
-Excellent. You've addressed both the immediate relationship repair and the long-term sustainability of these processes.
+Morgan developed a four-phase transformation roadmap: forming an integration team, mapping and standardizing enterprise workflows, piloting high-impact integrations, and scaling to full enterprise integration with real-time dashboards. We established realistic timelines (6-12 months) and identified early value milestones to maintain momentum throughout the transformation.
 
-I'm particularly impressed with:
-- Taking direct accountability with the Australian team
-- The shared version-tracking dashboard for transparency  
-- Rotating Process Lead to prevent burnout while maintaining ownership
-- Quarterly collaboration audits to get ongoing feedback
-
-This shows you understand that collaboration systems aren't just about tools - they're about people, processes, and ongoing communication.
-
-Let me summarize what we've established as our action plan moving forward:
-
-**Immediate:** Joint meeting with Australian team to take accountability and introduce new transparency measures. Implementation of shared dashboard and dual-calendar system.
-
-**Ongoing:** Daily 15-minute reviews with rotating Process Lead, mandatory version control through Git branches, consistent task updates in Teams/Planner, and weekly alternating sync meetings with Australia.
-
-**Long-term:** Quarterly collaboration audits to ensure systems remain effective and relationships stay strong.
-
-This comprehensive approach addresses the technical failures, process gaps, and relationship management that all contributed to missing that deadline. I'm confident this won't happen again with these systems in place.
-
-Good work taking ownership and thinking strategically about prevention, not just reaction.
-
----
-
-### **user**:
-
-Thank you! Is there anything else I should cover before we conclude our meeting?
-
----
-
-### **assistant**:
-
-Actually, yes. One final question that's important for your development:
-
-What did you personally learn from this experience about working with distributed teams and collaboration information systems? 
-
-I want to hear your reflection on this - not just the process improvements we discussed, but what this taught you about the human side of collaboration technology. How will you approach international teamwork differently going forward?
-
-This kind of self-awareness is crucial for preventing similar issues in future projects, even when the specific circumstances are different.
-
----
-
-### **user**:
-
-I learned that collaboration is a very complex animal with many different parts to face. There are many aspects to consider, including short-term, long-term, and things that will should happen right away to think about. There's also the fact that you have to keep in mind that you and your team aren't the only ones being impacted by your actions. Obviously, there is some pressure to do well for those you are supporting or serving as well. The human side of collaboration technology is still something I am getting used to, but going forward, I hope that I will be able to use these concepts and put them into play. I want to be able to be a good team player and this has given me great insight to the skills and mindset I need to push forward even when things look tough.
-
----
-
-### **assistant**:
-
-I appreciate your reflection, and I can see you're taking this seriously. You're right that collaboration affects multiple stakeholders and requires both immediate and long-term thinking.
-
-Here's what I heard from our conversation today - and what I'll be documenting in your development record:
-
-You demonstrated strong problem-solving skills by identifying the specific technical and process failures that led to the missed deadline. You showed accountability by proposing concrete solutions rather than making excuses. Your recommendations for version control enforcement, task management accountability, and time zone coordination were well-thought-out and actionable. Most importantly, you recognized that this was about relationship management with the Australian team, not just fixing our internal processes.
-
-The area where you can continue growing is in proactive communication - anticipating these collaboration challenges before they become problems, especially when working across time zones and with external teams.
-
-I'm confident that with these new systems in place and your improved understanding of distributed collaboration, we won't see this kind of breakdown again. The Australian team is counting on us to deliver reliably, and I believe we're now set up to do that.
-
-Meeting concluded. Thank you for taking ownership and working through this constructively.
+This role-play demonstrated how business analysts can guide organizations from siloed, inefficient operations toward integrated enterprise processes that improve efficiency, data accuracy, and cross-departmental collaboration using systematic change management and strategic technology integration.
 
 ---
 
